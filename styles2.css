@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+#contenedor{
+    width: 100%;
+    height: 615px;
+    background-color: grey;
+    margin: auto;
+}
+.caja1 {
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+    border: 3px solid black;
+}
+
+.caja2 {
+    width: 15%;
+    height: 350px;
+    background-color: red;
+    float: left;
+    border: 3px solid black;
+    
+}
+
+.caja3 {
+    width: 85%;
+    height:350px;
+    background-color: purple;
+    float: right;
+    border: 3px solid black;
+}
+
+.caja4 {
+    width: 50%;
+    height:165px;
+    background-color: orange;
+    float: left;
+    border: 3px solid black;
+}
+
+.caja5 {
+    width: 50%;
+    height:165px;
+    background-color: orange;
+    float: right;
+    border: 3px solid black;
+}
